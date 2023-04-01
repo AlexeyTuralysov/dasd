@@ -1,0 +1,11 @@
+input[type=text], input[type=email],input[type=reset], input[type=submit],input[type=password]{
+    background-color:  #8083FF;
+    font-size: 20px;
+    border: 2px solid #8083FF;
+    border-radius: 10px;
+    color: white;
+}
+
+::placeholder{
+    color: white;
+}
